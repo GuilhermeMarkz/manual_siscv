@@ -19,6 +19,7 @@ nav {
 }
 nav a {
     margin: 0 15px;
+    margin-top: 10px;
     text-decoration: none;
     color: #333;
     font-weight: bold;
@@ -55,7 +56,12 @@ ul {
     }
 
     section h2 {
-        font-size: 2.5em;
+        font-size: 2em;
+    }
+
+    section iframe{
+        width: 60%;
+        height: 50%;
     }
 
     .container {
